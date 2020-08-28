@@ -1,4 +1,5 @@
 # Open-Sofeware-Mirrors-From-Everywhere.io
+<table><tr><td bgcolor=#E6E6FA>### $\color{red}{Prohibition of plagiarism}$
 ## English:
 Tips: If you want to read Chinese, [Tap Here](#chinese) 
 #### Domestic(China):
@@ -94,3 +95,4 @@ Tips: If you want to read Chinese, [Tap Here](#chinese)
    + ~~http://ftp.estpak.ee/pub/~~
     
 ## <span id="chinese">中文:</span>
+</td></tr></table>
